@@ -10,7 +10,7 @@ Task Organizer API with:
       
   - automatic email sending on creating and deleting account (SendGrid API)
   
-  - authentication, registration, login (npm modules: JSONWebTokens, bcrypt, validator)
+  - authentication, registration, login (npm modules: JSONWebToken, bcrypt, validator)
   
   - task sorting (by timestamp or parameter/field)
   
