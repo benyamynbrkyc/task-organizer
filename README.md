@@ -1,4 +1,4 @@
-# task-organizer
+# Task Organizer
 
 Task Organizer API with:
 
